@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void lower(int s);
+char lower(int s);
 
 int main()
 {
@@ -8,7 +8,7 @@ int main()
   lower(s);
 }
 
-void lower(int s)
+char lower(int s)
 {
   return (s>= 'A' && s <= 'Z') ? (s + 'a' - 'A') : s; 
 }
