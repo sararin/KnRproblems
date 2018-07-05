@@ -23,3 +23,13 @@
 * 1-22 **done**
 * 1-23 **done**
 * 1-24 **done**
+* 2-1 theoretical
+* 2-2 **done**
+* 2-3 **done**
+* 2-4 **done**
+* 2-5 **done**
+* 2-6
+* 2-7 **done**
+* 2-8 **done**
+* 2-9 **done**
+* 2-10 **done**
